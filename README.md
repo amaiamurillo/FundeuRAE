@@ -2,5 +2,5 @@
 This project aims to improve LLM metalinguistic knowledge incorporating FundéuRAE's recommendations through Retrieval-Augmented Generation. 
 
 
-![](https://github.com/amaiamurillo/FundeuRAE/blob/main/recommendation.png)
+![](https://github.com/amaiamurillo/FundeuRAE/blob/main/fundeu.png)
 
